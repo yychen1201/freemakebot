@@ -1,3 +1,3 @@
 # 機器人代做系統均開源項目
 
-若要使用請自行更改設定
+合作功能使用:https://github.com/ouoteam/oats
